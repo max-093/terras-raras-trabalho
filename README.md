@@ -7,5 +7,6 @@ Marcelo - pesquisar sobre o assunto e fotos/imagens
 Miuke - pesquisar sobre o assunto 
 ============================
 Isabelly - pesquisar sobre o assunto 
-============================
+----------------------------
 Maria Eduarda - pesquisar sobre o assunto 
+----------------------------
